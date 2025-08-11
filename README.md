@@ -1,17 +1,48 @@
-# NEPS ACADEMY
+# Atualização dos Arquivos - Neps Academy
+Esta atualização inclui a resolução de diversas atividades no repositório, com vários arquivos novos e modificações feitas recentemente.
 
-## Opa, espero que esteja bem! 
+---
 
-Esta é atividade da disciplina de Introdução a ciência da computação, ministrada pelo Professor Jeferson do Nascimento Soares. 
+### Arquivos atualizados e adicionados:
 
-A linguagem utilizada foi o JavaScript
+- **Fliper.js**  
+- **Gangorra.js**  
+- **PremioDoMilhao.js**  
+- **areadoquadrado.js**  
+- **bondinho.js**  
+- **divisao.js**  
+- **garcom.js**  
+- **lampadas.js**  
+- **medalhas.js**  
+- **mediainteira.js**  
+- **olaCodCad.js**  
+- **parimpar.js**  
+- **pos,neg,nulo.js**  
+- **positivonegativo.js**  
+- **potenciasimples.js**  
+- **repetirxvezes.js**  
+- **reprovadoaprovado.js**  
+- **somaelementos.js**  
+- **somafacil.js**  
+- **todososdivisores.js**  
 
-## Aqui estão algumas resoluções de alguns desafios da plataforma Neps Academy!
+---
 
-### Fliper
+## Descrição geral
 
-### Bondinho
+- Diversas atividades foram resolvidas, incluindo problemas clássicos como soma de elementos, verificação de positivos e negativos, cálculo de áreas, manipulação de listas e condições lógicas.
+- Cada arquivo representa uma solução independente para um problema específico da plataforma Neps Academy.
+- A organização do código visa facilitar estudos e futuras consultas.
 
-### Gangorra
+---
 
-### Prêmio do Milhão
+## Próximos passos
+
+- Continuar resolvendo novos desafios.
+- Revisar os códigos para otimização e comentários explicativos.
+- Compartilhar soluções e discutir abordagens com a comunidade.
+
+---
+
+*Atualizado recentemente por MateusARJ.*
+
